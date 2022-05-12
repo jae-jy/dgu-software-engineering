@@ -1,1 +1,3 @@
-# dgu-software-engineering
+# 소프트웨어공학설계 프로젝트
+
+#개인거례사이트 구현
